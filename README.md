@@ -31,7 +31,7 @@ For Sklearn
 ```pip install scikit-learn```
 
 For SMOTE
-'''pip install imbalanced-learn'''  
+```pip install imbalanced-learn``` 
 
 For CatBoost
-'''pip install catboost'''
+```pip install catboost```
